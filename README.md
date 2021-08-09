@@ -2,7 +2,7 @@
 
 I'm a machine learning engineer from Sydney 🇦🇺
 
-I've been building production grade ML pipelines and systems at [@nearmap](https://www.nearmap.com/) 🗺️
+I've been building production grade ML pipelines and systems at [@nearmap](https://www.nearmap.com/au/en/products/ai-aerial-maps) 🗺️
 
 You can find me on:
 - My website: [martinabeleda.com](https://www.martinabeleda.com/)
