@@ -1,6 +1,6 @@
 ### Hi there, I'm @martinabeleda 👋
 
-I'm a machine learning engineer from Sydney 🇦🇺, currently living in Vancouver 🇨🇦
+I'm a machine learning engineer from 🇦🇺 currently living in Vancouver 🇨🇦
 
 Previously, I worked on AI Systems at [@nearmap](https://www.nearmap.com/au/en/products/ai-aerial-maps) 🗺️
 
