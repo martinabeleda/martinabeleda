@@ -8,6 +8,4 @@ Previously, I worked on AI Systems at [@nearmap](https://www.nearmap.com/au/en/p
 
 And now, I work on the ML Platforms team at [@BorealisAI](https://www.borealisai.com/en/) 🌃
 
-You can find me on:
-- Twitter [@martinabeleda](https://twitter.com/martinabeleda)
-- [LinkedIn](https://www.linkedin.com/in/martinabeleda/)
+You can find me [@martinabeleda](https://twitter.com/martinabeleda) or on [LinkedIn](https://www.linkedin.com/in/martinabeleda/)
