@@ -6,6 +6,7 @@ I write in Python 🐍 professionally and in Rust 🦀 for fun
 
 #### Work Experience
 
+- Software Engineer [@Yelp](https://www.yelp.com/) 🥯
 - Software Engineer II [@BorealisAI](https://www.borealisai.com/en/) 🌃
 - Machine Learning Engineer [@nearmap](https://www.nearmap.com/au/en/products/ai-aerial-maps) 🗺️
 - AI Research Intern [@nearmap](https://www.nearmap.com/au/en/products/ai-aerial-maps) 🗺️
